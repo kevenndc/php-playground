@@ -1,0 +1,832 @@
+[
+    {
+        "nome": "Ambev ON",
+        "ultimo": "17,16",
+        "maxima": "17,36",
+        "minima": "17,00",
+        "var": "+0,06",
+        "var_pctg": "+0,35%",
+        "vol": "15,86M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Assaí ON",
+        "ultimo": "90,84",
+        "maxima": "91,04",
+        "minima": "87,16",
+        "var": "+3,04",
+        "var_pctg": "+3,46%",
+        "vol": "2,11M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Azul PN",
+        "ultimo": "37,97",
+        "maxima": "38,27",
+        "minima": "37,43",
+        "var": "0,00",
+        "var_pctg": "0,00%",
+        "vol": "2,67M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "B3 ON",
+        "ultimo": "15,77",
+        "maxima": "16,06",
+        "minima": "15,68",
+        "var": "-0,13",
+        "var_pctg": "-0,82%",
+        "vol": "17,53M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Banco do Brasil ON",
+        "ultimo": "31,50",
+        "maxima": "32,25",
+        "minima": "31,50",
+        "var": "-0,29",
+        "var_pctg": "-0,91%",
+        "vol": "10,07M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Banco Inter Unit",
+        "ultimo": "73,67",
+        "maxima": "74,22",
+        "minima": "70,77",
+        "var": "+1,49",
+        "var_pctg": "+2,06%",
+        "vol": "2,73M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "BB Seguridade ON",
+        "ultimo": "21,69",
+        "maxima": "21,76",
+        "minima": "21,39",
+        "var": "+0,39",
+        "var_pctg": "+1,83%",
+        "vol": "3,81M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "BR Malls Par ON",
+        "ultimo": "10,09",
+        "maxima": "10,26",
+        "minima": "10,03",
+        "var": "+0,03",
+        "var_pctg": "+0,30%",
+        "vol": "12,16M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Bradesco ON",
+        "ultimo": "20,26",
+        "maxima": "20,50",
+        "minima": "20,21",
+        "var": "-0,02",
+        "var_pctg": "-0,10%",
+        "vol": "6,34M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Bradesco PN ",
+        "ultimo": "23,70",
+        "maxima": "24,07",
+        "minima": "23,60",
+        "var": "-0,01",
+        "var_pctg": "-0,04%",
+        "vol": "34,89M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Bradespar PN",
+        "ultimo": "71,63",
+        "maxima": "71,69",
+        "minima": "70,81",
+        "var": "-0,57",
+        "var_pctg": "-0,79%",
+        "vol": "2,83M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Braskem PN",
+        "ultimo": "57,10",
+        "maxima": "57,80",
+        "minima": "55,44",
+        "var": "+0,63",
+        "var_pctg": "+1,12%",
+        "vol": "1,65M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "BRF ON",
+        "ultimo": "24,72",
+        "maxima": "25,09",
+        "minima": "24,42",
+        "var": "+0,32",
+        "var_pctg": "+1,31%",
+        "vol": "3,73M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "BTG Pactual Unit",
+        "ultimo": "31,30",
+        "maxima": "31,77",
+        "minima": "29,98",
+        "var": "+1,18",
+        "var_pctg": "+3,92%",
+        "vol": "15,96M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Carrefour ON",
+        "ultimo": "18,95",
+        "maxima": "19,38",
+        "minima": "18,90",
+        "var": "-0,20",
+        "var_pctg": "-1,04%",
+        "vol": "3,34M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "CCR ON",
+        "ultimo": "12,80",
+        "maxima": "12,94",
+        "minima": "12,50",
+        "var": "+0,20",
+        "var_pctg": "+1,59%",
+        "vol": "12,20M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "CEMIG PN Pref",
+        "ultimo": "11,77",
+        "maxima": "11,95",
+        "minima": "11,59",
+        "var": "+0,05",
+        "var_pctg": "+0,43%",
+        "vol": "11,47M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Cia Hering ON",
+        "ultimo": "37,06",
+        "maxima": "37,65",
+        "minima": "36,47",
+        "var": "-0,14",
+        "var_pctg": "-0,38%",
+        "vol": "1,04M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Cielo ON",
+        "ultimo": "3,38",
+        "maxima": "3,45",
+        "minima": "3,37",
+        "var": "-0,02",
+        "var_pctg": "-0,59%",
+        "vol": "11,11M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Cogna Educacao",
+        "ultimo": "3,48",
+        "maxima": "3,53",
+        "minima": "3,46",
+        "var": "-0,03",
+        "var_pctg": "-0,85%",
+        "vol": "26,68M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "COPEL Pref B",
+        "ultimo": "6,68",
+        "maxima": "6,74",
+        "minima": "6,50",
+        "var": "+0,13",
+        "var_pctg": "+1,98%",
+        "vol": "8,21M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Cosan ON",
+        "ultimo": "24,29",
+        "maxima": "24,55",
+        "minima": "23,95",
+        "var": "+0,09",
+        "var_pctg": "+0,37%",
+        "vol": "4,48M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "CPFL Energia ON",
+        "ultimo": "25,17",
+        "maxima": "25,52",
+        "minima": "24,93",
+        "var": "+0,15",
+        "var_pctg": "+0,60%",
+        "vol": "2,53M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "CSN ON",
+        "ultimo": "43,33",
+        "maxima": "43,68",
+        "minima": "42,15",
+        "var": "-0,09",
+        "var_pctg": "-0,21%",
+        "vol": "14,74M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "CVC Brasil ON",
+        "ultimo": "20,22",
+        "maxima": "20,63",
+        "minima": "19,99",
+        "var": "-0,35",
+        "var_pctg": "-1,70%",
+        "vol": "5,69M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Cyrela Realt ON",
+        "ultimo": "20,35",
+        "maxima": "20,61",
+        "minima": "19,95",
+        "var": "+0,27",
+        "var_pctg": "+1,34%",
+        "vol": "6,17M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Ecorodovias ON",
+        "ultimo": "10,21",
+        "maxima": "10,41",
+        "minima": "10,16",
+        "var": "+0,01",
+        "var_pctg": "+0,10%",
+        "vol": "5,63M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "EDP Brasil ON",
+        "ultimo": "17,45",
+        "maxima": "17,52",
+        "minima": "17,20",
+        "var": "+0,25",
+        "var_pctg": "+1,45%",
+        "vol": "1,96M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Eletrobras ON",
+        "ultimo": "40,47",
+        "maxima": "41,38",
+        "minima": "40,34",
+        "var": "-0,78",
+        "var_pctg": "-1,89%",
+        "vol": "2,39M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Eletrobras PNB",
+        "ultimo": "40,44",
+        "maxima": "41,20",
+        "minima": "40,15",
+        "var": "-0,46",
+        "var_pctg": "-1,12%",
+        "vol": "1,70M",
+        "hora": "17:10:00"
+    },
+    {
+        "nome": "Embraer ON",
+        "ultimo": "18,98",
+        "maxima": "19,20",
+        "minima": "18,69",
+        "var": "-0,25",
+        "var_pctg": "-1,30%",
+        "vol": "5,29M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Energisa Unit",
+        "ultimo": "42,46",
+        "maxima": "42,87",
+        "minima": "42,19",
+        "var": "+0,16",
+        "var_pctg": "+0,38%",
+        "vol": "655,90K",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Eneva ON",
+        "ultimo": "17,30",
+        "maxima": "17,43",
+        "minima": "17,04",
+        "var": "+0,16",
+        "var_pctg": "+0,93%",
+        "vol": "2,55M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Engie Brasil ON",
+        "ultimo": "38,08",
+        "maxima": "38,32",
+        "minima": "37,67",
+        "var": "+0,41",
+        "var_pctg": "+1,09%",
+        "vol": "1,04M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Equatorial ON",
+        "ultimo": "24,18",
+        "maxima": "24,44",
+        "minima": "23,93",
+        "var": "+0,08",
+        "var_pctg": "+0,33%",
+        "vol": "4,03M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Eztec ON",
+        "ultimo": "27,25",
+        "maxima": "27,35",
+        "minima": "26,61",
+        "var": "+0,31",
+        "var_pctg": "+1,15%",
+        "vol": "2,31M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Fleury ON",
+        "ultimo": "23,22",
+        "maxima": "23,41",
+        "minima": "22,83",
+        "var": "+0,32",
+        "var_pctg": "+1,40%",
+        "vol": "2,57M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Gerdau PN",
+        "ultimo": "30,96",
+        "maxima": "31,19",
+        "minima": "30,58",
+        "var": "-0,40",
+        "var_pctg": "-1,28%",
+        "vol": "9,79M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Gol PN",
+        "ultimo": "19,94",
+        "maxima": "20,17",
+        "minima": "19,65",
+        "var": "-0,16",
+        "var_pctg": "-0,80%",
+        "vol": "5,35M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Hapvida ON",
+        "ultimo": "14,15",
+        "maxima": "14,44",
+        "minima": "14,10",
+        "var": "-0,11",
+        "var_pctg": "-0,77%",
+        "vol": "7,40M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Hypera ON",
+        "ultimo": "36,67",
+        "maxima": "36,97",
+        "minima": "36,24",
+        "var": "+0,29",
+        "var_pctg": "+0,80%",
+        "vol": "1,69M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Iguatemi ON",
+        "ultimo": "39,85",
+        "maxima": "40,32",
+        "minima": "39,47",
+        "var": "+0,34",
+        "var_pctg": "+0,86%",
+        "vol": "1,51M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Intermedica ON",
+        "ultimo": "78,23",
+        "maxima": "80,15",
+        "minima": "78,22",
+        "var": "-1,16",
+        "var_pctg": "-1,46%",
+        "vol": "2,10M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "IRB Brasil ON",
+        "ultimo": "5,85",
+        "maxima": "5,90",
+        "minima": "5,75",
+        "var": "+0,03",
+        "var_pctg": "+0,52%",
+        "vol": "17,64M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Itau Unibanco PN",
+        "ultimo": "31,20",
+        "maxima": "31,43",
+        "minima": "30,77",
+        "var": "+0,36",
+        "var_pctg": "+1,17%",
+        "vol": "33,74M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Itausa PN",
+        "ultimo": "11,56",
+        "maxima": "11,67",
+        "minima": "11,50",
+        "var": "+0,05",
+        "var_pctg": "+0,43%",
+        "vol": "20,77M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "JBS ON",
+        "ultimo": "32,95",
+        "maxima": "33,71",
+        "minima": "32,46",
+        "var": "+0,35",
+        "var_pctg": "+1,07%",
+        "vol": "10,39M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "JHSF Part ON",
+        "ultimo": "7,54",
+        "maxima": "7,82",
+        "minima": "7,49",
+        "var": "-0,17",
+        "var_pctg": "-2,20%",
+        "vol": "4,34M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Klabin Unit",
+        "ultimo": "25,11",
+        "maxima": "25,30",
+        "minima": "24,49",
+        "var": "+0,67",
+        "var_pctg": "+2,74%",
+        "vol": "6,72M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Localiza ON",
+        "ultimo": "58,60",
+        "maxima": "59,44",
+        "minima": "57,85",
+        "var": "+0,35",
+        "var_pctg": "+0,60%",
+        "vol": "6,11M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Locamerica ON",
+        "ultimo": "26,03",
+        "maxima": "26,36",
+        "minima": "25,50",
+        "var": "+0,23",
+        "var_pctg": "+0,89%",
+        "vol": "2,28M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Locaweb On",
+        "ultimo": "25,94",
+        "maxima": "26,28",
+        "minima": "25,25",
+        "var": "+0,39",
+        "var_pctg": "+1,53%",
+        "vol": "5,67M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Lojas Americanas PN",
+        "ultimo": "6,60",
+        "maxima": "6,81",
+        "minima": "6,57",
+        "var": "-0,12",
+        "var_pctg": "-1,79%",
+        "vol": "13,64M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Lojas Renner ON",
+        "ultimo": "41,11",
+        "maxima": "41,89",
+        "minima": "40,92",
+        "var": "-0,09",
+        "var_pctg": "-0,22%",
+        "vol": "7,48M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Magazine Luiza ON",
+        "ultimo": "20,49",
+        "maxima": "20,88",
+        "minima": "20,43",
+        "var": "-0,19",
+        "var_pctg": "-0,92%",
+        "vol": "14,09M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Marfrig ON",
+        "ultimo": "19,52",
+        "maxima": "19,63",
+        "minima": "18,90",
+        "var": "+0,69",
+        "var_pctg": "+3,66%",
+        "vol": "10,15M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Met. Gerdau PN",
+        "ultimo": "14,30",
+        "maxima": "14,44",
+        "minima": "14,10",
+        "var": "-0,05",
+        "var_pctg": "-0,35%",
+        "vol": "5,45M",
+        "hora": "17:10:00"
+    },
+    {
+        "nome": "Minerva ON",
+        "ultimo": "8,85",
+        "maxima": "8,86",
+        "minima": "8,54",
+        "var": "+0,34",
+        "var_pctg": "+4,00%",
+        "vol": "8,74M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "MRV ON",
+        "ultimo": "13,80",
+        "maxima": "13,94",
+        "minima": "13,61",
+        "var": "+0,11",
+        "var_pctg": "+0,80%",
+        "vol": "3,04M",
+        "hora": "17:09:00"
+    },
+    {
+        "nome": "Multiplan ON",
+        "ultimo": "23,56",
+        "maxima": "23,81",
+        "minima": "23,11",
+        "var": "+0,36",
+        "var_pctg": "+1,55%",
+        "vol": "5,37M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Natura ON",
+        "ultimo": "54,23",
+        "maxima": "55,23",
+        "minima": "53,90",
+        "var": "-0,37",
+        "var_pctg": "-0,68%",
+        "vol": "3,69M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Pão de Açúcar CBD ON",
+        "ultimo": "30,40",
+        "maxima": "31,11",
+        "minima": "30,14",
+        "var": "+0,11",
+        "var_pctg": "+0,36%",
+        "vol": "1,69M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Petrobras Distr ON",
+        "ultimo": "28,55",
+        "maxima": "28,67",
+        "minima": "28,00",
+        "var": "+0,50",
+        "var_pctg": "+1,78%",
+        "vol": "9,13M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Petrobras ON",
+        "ultimo": "28,84",
+        "maxima": "28,95",
+        "minima": "28,35",
+        "var": "-0,27",
+        "var_pctg": "-0,93%",
+        "vol": "16,29M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Petrobras PN",
+        "ultimo": "28,19",
+        "maxima": "28,21",
+        "minima": "27,67",
+        "var": "-0,20",
+        "var_pctg": "-0,70%",
+        "vol": "75,03M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Petrorio ON",
+        "ultimo": "17,58",
+        "maxima": "17,75",
+        "minima": "16,81",
+        "var": "+0,11",
+        "var_pctg": "+0,63%",
+        "vol": "14,43M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Qualicorp ON",
+        "ultimo": "24,58",
+        "maxima": "24,99",
+        "minima": "24,40",
+        "var": "-0,21",
+        "var_pctg": "-0,85%",
+        "vol": "1,19M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Raia Drogasil ON",
+        "ultimo": "26,70",
+        "maxima": "26,85",
+        "minima": "25,78",
+        "var": "+0,70",
+        "var_pctg": "+2,69%",
+        "vol": "4,06M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Rumo ON",
+        "ultimo": "19,97",
+        "maxima": "20,38",
+        "minima": "19,97",
+        "var": "-0,22",
+        "var_pctg": "-1,09%",
+        "vol": "6,61M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Sabesp ON",
+        "ultimo": "35,65",
+        "maxima": "36,30",
+        "minima": "35,24",
+        "var": "+0,13",
+        "var_pctg": "+0,37%",
+        "vol": "1,84M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Santander Brasil Unit",
+        "ultimo": "40,71",
+        "maxima": "41,20",
+        "minima": "40,60",
+        "var": "-0,17",
+        "var_pctg": "-0,42%",
+        "vol": "1,33M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Sul America Unit",
+        "ultimo": "29,07",
+        "maxima": "29,55",
+        "minima": "28,98",
+        "var": "-0,08",
+        "var_pctg": "-0,27%",
+        "vol": "2,63M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Suzano Papel ON",
+        "ultimo": "56,37",
+        "maxima": "56,82",
+        "minima": "54,50",
+        "var": "+2,07",
+        "var_pctg": "+3,81%",
+        "vol": "8,55M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "TAEE UNIT",
+        "ultimo": "40,21",
+        "maxima": "40,28",
+        "minima": "39,45",
+        "var": "+0,81",
+        "var_pctg": "+2,06%",
+        "vol": "2,98M",
+        "hora": "17:12:00"
+    },
+    {
+        "nome": "Telefonica Brasil ON",
+        "ultimo": "42,13",
+        "maxima": "42,34",
+        "minima": "41,89",
+        "var": "+0,27",
+        "var_pctg": "+0,65%",
+        "vol": "1,45M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "TIM ON",
+        "ultimo": "11,46",
+        "maxima": "11,59",
+        "minima": "11,36",
+        "var": "+0,01",
+        "var_pctg": "+0,09%",
+        "vol": "4,71M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Totvs ON",
+        "ultimo": "37,32",
+        "maxima": "37,74",
+        "minima": "36,93",
+        "var": "+0,06",
+        "var_pctg": "+0,16%",
+        "vol": "2,80M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Ultrapar ON",
+        "ultimo": "17,75",
+        "maxima": "17,87",
+        "minima": "16,96",
+        "var": "+0,65",
+        "var_pctg": "+3,80%",
+        "vol": "12,25M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Usiminas PNA",
+        "ultimo": "21,52",
+        "maxima": "21,52",
+        "minima": "20,99",
+        "var": "-0,07",
+        "var_pctg": "-0,32%",
+        "vol": "18,32M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Vale ON",
+        "ultimo": "109,01",
+        "maxima": "109,45",
+        "minima": "107,68",
+        "var": "-0,69",
+        "var_pctg": "-0,63%",
+        "vol": "21,42M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Via Varejo ON",
+        "ultimo": "12,71",
+        "maxima": "12,75",
+        "minima": "12,26",
+        "var": "+0,36",
+        "var_pctg": "+2,92%",
+        "vol": "26,80M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "Weg ON",
+        "ultimo": "36,16",
+        "maxima": "36,76",
+        "minima": "36,04",
+        "var": "-0,08",
+        "var_pctg": "-0,22%",
+        "vol": "4,54M",
+        "hora": "17:08:00"
+    },
+    {
+        "nome": "YDUQS Participacoes",
+        "ultimo": "26,75",
+        "maxima": "27,41",
+        "minima": "26,75",
+        "var": "-0,45",
+        "var_pctg": "-1,65%",
+        "vol": "1,85M",
+        "hora": "17:08:00"
+    }
+]
